@@ -169,10 +169,6 @@ The above is why this project is public. Let's fix this and all benefit from bet
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🆘 Support
 
 **Issues**: Report bugs and feature requests on GitHub. Better yet, contribute and fix them.
